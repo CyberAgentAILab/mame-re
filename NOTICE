@@ -1,0 +1,54 @@
+NOTICE
+
+This repository contains two categories of content, each under different
+licensing terms. Please read this file together with LICENSE.
+
+-----------------------------------------------------------------------
+1. Manga panel images and dialogue text
+-----------------------------------------------------------------------
+
+Applies to:
+  - All image files under images/
+  - The dialogue column ("text") of image.csv
+
+These materials are excerpted from the manga "Give My Regards to Black
+Jack" (Japanese title: ブラックジャックによろしく) by Shuho Sato.
+The original manga is available at:
+
+  https://densho810.com/free/
+
+Copyright of these materials remains with the original author. The
+author specifies the following credit line:
+
+  Japanese: ブラックジャックによろしく　佐藤秀峰
+  English:  Give My Regards to Black Jack SHUHO SATO
+
+They are redistributed in this repository under the author's free
+secondary-use declaration (announced September 2012), which permits
+reproduction, adaptation, and redistribution of the work, including for
+commercial purposes, without prior permission, on the condition that
+the title and the author's name are credited.
+
+If you redistribute or reuse these materials, you must retain the
+credit line above.
+
+Any use or redistribution of these materials must comply with the
+author's secondary-use terms, including their restrictions:
+
+  https://densho810.com/free/
+
+These materials are NOT covered by the CC BY 4.0 license in the LICENSE
+file.
+
+-----------------------------------------------------------------------
+2. Dataset (annotations and derived data)
+-----------------------------------------------------------------------
+
+Applies to:
+  - context.csv
+  - score.csv
+  - image.csv, except the dialogue column ("text")
+
+These materials were created by the dataset authors and are licensed
+under the Creative Commons Attribution 4.0 International license
+(CC BY 4.0). See the LICENSE file for the full license text.
